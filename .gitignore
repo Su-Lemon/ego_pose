@@ -1,3 +1,7 @@
 out
 datasets
 results
+__pycache__
+.idea
+.DS_Store
+*.zip
